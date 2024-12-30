@@ -30,7 +30,7 @@ export default {
       darkMode: "Dark mode",
     },
     explorer: {
-      title: "Explorer",
+      title: "Recipes",
     },
     footer: {
       createdWith: "Created with",
@@ -39,7 +39,7 @@ export default {
       title: "Graph View",
     },
     recentNotes: {
-      title: "Recent Notes",
+      title: "Recent Recipes",
       seeRemainingMore: ({ remaining }) => `See ${remaining} more →`,
     },
     transcludes: {
